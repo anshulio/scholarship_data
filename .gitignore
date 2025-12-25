@@ -1,0 +1,7 @@
+venv/
+my_venv/
+__pycache__/
+*.pyc
+serviceAccountKey.json
+data/
+cleaned_data/
